@@ -3,11 +3,13 @@
 This repository contains my notes on mathematical foundations for machine learning studies.
 
 ## Contents
-- [Linear Algebra]
-- Probability
+- Linear Algebra
+- Probability and Statistics
 - Calculus
+- Convex Optimization
+- Information Theory *(planned)*
 
-## Current Focus
+## Current Focus - Linear Algebra
 - Linear Equations
 - Vector spaces and subspaces
 - Four fundamental subspaces
